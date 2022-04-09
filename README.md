@@ -1,7 +1,9 @@
 <!-- TITLE -->
 # Introdução Geral
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo:***
+
+* [ ] Como Aprender.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
