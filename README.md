@@ -65,7 +65,7 @@
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/int-ger-wp-zp?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-<!-- ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações") -->
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/int-ger-wp-zp?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
 <!-- ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório") -->
 &nbsp;
