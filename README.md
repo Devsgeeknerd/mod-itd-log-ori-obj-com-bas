@@ -5,6 +5,7 @@
 
 * [ ] Como Aprender.
 * [ ] Como Funciona um Site.
+* [ ] Como o PHP Funciona.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
