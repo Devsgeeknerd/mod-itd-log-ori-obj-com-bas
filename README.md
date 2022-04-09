@@ -4,6 +4,7 @@
 ***Conteúdo:***
 
 * [ ] Como Aprender.
+* [ ] Como Funciona um Site.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
