@@ -7,6 +7,7 @@
 * [ ] Como Funciona um Site.
 * [ ] Como o PHP Funciona.
 * [ ] Pagina Estática vs Dinâmica.
+* [ ] Editor Gutenberg.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
