@@ -6,6 +6,7 @@
 * [ ] Como Aprender.
 * [ ] Como Funciona um Site.
 * [ ] Como o PHP Funciona.
+* [ ] Pagina Estática vs Dinâmica.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
