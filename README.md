@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Introdução Geral
 
-***Conteúdo:***
+***Conteúdo do Módulo:***
 
 * [ ] Como Aprender.
 * [ ] Como Funciona um Site.
