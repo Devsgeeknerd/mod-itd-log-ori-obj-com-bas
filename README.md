@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] Como Aprender.
+* [ ] [Como Aprender.](https://github.com/Devsgeeknerd/com-apr-wp-zp "Ver detalhes")
 * [ ] Como Funciona um Site.
 * [ ] Como o PHP Funciona.
 * [ ] Pagina Estática vs Dinâmica.
