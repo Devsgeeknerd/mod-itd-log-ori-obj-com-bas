@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
